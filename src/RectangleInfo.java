@@ -8,8 +8,10 @@ public class RectangleInfo
         double height = 0;
         double area = 0;
         double perimeter = 0;
-        double diagonal = 0;
+        double diagonalOne = 0;
+        double diagonalTwo = 0;
         String trash = "";
+        boolean done = false;
 
         do
         {
@@ -24,13 +26,14 @@ public class RectangleInfo
                 System.out.println("The area of the rectangle is: " + area);
                 perimeter = (width * 2) + (height * 2);
                 System.out.println("The perimeter of the rectangle is: " + perimeter);
-                diagonal = ((width * width) + (height * height)) / ((width * width) + (height * height));
-                System.out.println("The diagonal of the rectangle is: " + diagonal);
+                diagonalOne = ((width * width) + (height * height));
+                diagonalTwo = Math.sqrt(diagonalOne);
+                System.out.println("The diagonal of the rectangle is: " + diagonalTwo);
             } else {
                 trash = in.nextLine();
                 System.out.println("\nYou entered: ");
                 System.out.println("Please enter a valid number.");
             }
-        }
+        } while(!done);
     }
 }
