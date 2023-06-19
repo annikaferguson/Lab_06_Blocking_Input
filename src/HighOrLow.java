@@ -12,6 +12,7 @@ public class HighOrLow
         do
         {
             System.out.println("Enter your guess between 1-10: ");
+            guess = in.nextDouble();
             if(randomNumber > guess && guess >= 1 && guess <= 10)
             {
                 System.out.println("Your guess was less than the number! Try again!");
