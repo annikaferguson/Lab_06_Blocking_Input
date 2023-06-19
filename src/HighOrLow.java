@@ -28,7 +28,7 @@ public class HighOrLow
                 System.out.println("You entered: " + trash);
                 System.out.println("Please enter a valid number between 1 and 10");
             }
-        } while (!done)
+        } while (!done);
 
     }
 }
