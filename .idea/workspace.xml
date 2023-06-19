@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dec02899-83e7-4f84-ad7e-dc7b869f8a1d" name="Changes" comment="final">
+      <change afterPath="$PROJECT_DIR$/src/MetricConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CToFConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CToFConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RectangleInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectangleInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +60,25 @@
       <option name="project" value="LOCAL" />
       <updated>1687184049917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1687185216082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687185216082</updated>
+    </task>
+    <task id="LOCAL-00004" summary="final">
+      <created>1687185611359</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687185611359</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
     <MESSAGE value="final" />
     <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
