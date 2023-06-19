@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dec02899-83e7-4f84-ad7e-dc7b869f8a1d" name="Changes" comment="final">
-      <change afterPath="$PROJECT_DIR$/src/FuelCosts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CToFConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CToFConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RectangleInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectangleInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687182370491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final">
+      <created>1687184049917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687184049917</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
